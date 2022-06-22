@@ -29,7 +29,6 @@ export default function PasteIntoCodeblock(editor: Editor, cb: string | Clipboar
 
   const { selectedText, replaceRange } = getSelnRange(editor, settings);
 
-  // apply changes
   if (typeof cb !== "string") cb.preventDefault(); // prevent default paste behavior
   replace(editor, clipboardTextCodeblock, replaceRange);
 
