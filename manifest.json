@@ -4,5 +4,9 @@
   "description": "Paste into codeblock.",
   "isDesktopOnly": false,
   "js": "main.js",
-  "version": "0.0.1"
+  "version": "0.0.2",
+  "minAppVersion": "0.12.0",
+  "author": "inode",
+  "authorUrl": "https://github.com/inode-/obsidian-paste-into-codeblock",
+  "isDesktopOnly": false
 }

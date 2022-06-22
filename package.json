@@ -1,6 +1,6 @@
 {
   "name": "obsidian-paste-into-codeblock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Paste code into code block",
   "main": "main.js",
   "scripts": {
